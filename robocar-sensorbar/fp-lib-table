@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name photo-reflector)(type KiCad)(uri ${KIPRJMOD}/photo-reflector.pretty)(options "")(descr ""))
+)
