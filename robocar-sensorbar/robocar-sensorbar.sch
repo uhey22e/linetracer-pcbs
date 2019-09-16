@@ -19,7 +19,7 @@ L Sensor_Proximity:BPR-205 U1
 U 1 1 5D4ADD35
 P 2200 2750
 F 0 "U1" H 2200 3067 50  0000 C CNN
-F 1 "BPR-205" H 2200 2976 50  0000 C CNN
+F 1 "LBR-127HD" H 2200 2976 50  0000 C CNN
 F 2 "photo-reflector:LBR-127HD" H 2200 2550 50  0001 C CNN
 F 3 "http://www.ystone.com.tw/en/data/goods/IRPT/Photo%20Interrupters-Reflective%20Type.pdf" H 2200 2850 50  0001 C CNN
 	1    2200 2750
@@ -101,7 +101,7 @@ L Sensor_Proximity:BPR-205 U2
 U 1 1 5D4AE384
 P 4150 2750
 F 0 "U2" H 4150 3067 50  0000 C CNN
-F 1 "BPR-205" H 4150 2976 50  0000 C CNN
+F 1 "LBR-127HD" H 4150 2976 50  0000 C CNN
 F 2 "photo-reflector:LBR-127HD" H 4150 2550 50  0001 C CNN
 F 3 "http://www.ystone.com.tw/en/data/goods/IRPT/Photo%20Interrupters-Reflective%20Type.pdf" H 4150 2850 50  0001 C CNN
 	1    4150 2750
@@ -258,7 +258,7 @@ L Device:C C1
 U 1 1 5D4E06C9
 P 1800 4400
 F 0 "C1" H 1685 4354 50  0000 R CNN
-F 1 "C" H 1685 4445 50  0000 R CNN
+F 1 "100n" H 1685 4445 50  0000 R CNN
 F 2 "Capacitors_SMD:C_0603_HandSoldering" H 1838 4250 50  0001 C CNN
 F 3 "~" H 1800 4400 50  0001 C CNN
 	1    1800 4400
@@ -353,7 +353,7 @@ L Sensor_Proximity:BPR-205 U3
 U 1 1 5D4EA5EB
 P 5600 2750
 F 0 "U3" H 5600 3067 50  0000 C CNN
-F 1 "BPR-205" H 5600 2976 50  0000 C CNN
+F 1 "LBR-127HD" H 5600 2976 50  0000 C CNN
 F 2 "photo-reflector:LBR-127HD" H 5600 2550 50  0001 C CNN
 F 3 "http://www.ystone.com.tw/en/data/goods/IRPT/Photo%20Interrupters-Reflective%20Type.pdf" H 5600 2850 50  0001 C CNN
 	1    5600 2750
@@ -457,7 +457,7 @@ L Sensor_Proximity:BPR-205 U4
 U 1 1 5D4EB62D
 P 7100 2750
 F 0 "U4" H 7100 3067 50  0000 C CNN
-F 1 "BPR-205" H 7100 2976 50  0000 C CNN
+F 1 "LBR-127HD" H 7100 2976 50  0000 C CNN
 F 2 "photo-reflector:LBR-127HD" H 7100 2550 50  0001 C CNN
 F 3 "http://www.ystone.com.tw/en/data/goods/IRPT/Photo%20Interrupters-Reflective%20Type.pdf" H 7100 2850 50  0001 C CNN
 	1    7100 2750
@@ -561,7 +561,7 @@ L Sensor_Proximity:BPR-205 U5
 U 1 1 5D4EDBA2
 P 8650 2750
 F 0 "U5" H 8650 3067 50  0000 C CNN
-F 1 "BPR-205" H 8650 2976 50  0000 C CNN
+F 1 "LBR-127HD" H 8650 2976 50  0000 C CNN
 F 2 "photo-reflector:LBR-127HD" H 8650 2550 50  0001 C CNN
 F 3 "http://www.ystone.com.tw/en/data/goods/IRPT/Photo%20Interrupters-Reflective%20Type.pdf" H 8650 2850 50  0001 C CNN
 	1    8650 2750

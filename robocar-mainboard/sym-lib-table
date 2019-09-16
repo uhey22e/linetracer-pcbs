@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name Akizuki-Kit)(type Legacy)(uri D:/Users/yuhei/Documents/kicad/robocar-mainboard/Akizuki-Kit.lib)(options "")(descr ""))
+  (lib (name robocar-mainboard-rescue)(type Legacy)(uri ${KIPRJMOD}/robocar-mainboard-rescue.lib)(options "")(descr ""))
 )
