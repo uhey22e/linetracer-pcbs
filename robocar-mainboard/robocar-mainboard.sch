@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:robocar-mainboard-cache
-EELAYER 26 0
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -412,7 +412,7 @@ $EndComp
 Text Notes 900  6250 0    50   ~ 0
 Motor Battery
 $Comp
-L robocar-mainboard-rescue:AE-DRV8835-S-Akizuki-Kit U4
+L Akizuki-Kit:AE-DRV8835-S U4
 U 1 1 5D57410D
 P 2500 6650
 F 0 "U4" H 2500 7115 50  0000 C CNN
